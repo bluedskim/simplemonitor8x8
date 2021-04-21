@@ -1,0 +1,11 @@
+Library for display sequential data on 8x8 LEDs like MAX7219
+
+Version 1.0
+
+by Dennis.Kim
+
+contact: bluedskim@gmail.com
+
+See the online documentation here: https://bitbucket.org/bluedskim/simplemonitor8x8
+See examples/ directory for simple examples
+
