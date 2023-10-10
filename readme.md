@@ -7,7 +7,7 @@ by Dennis.Kim
 
 contact: bluedskim@gmail.com
 
-[![Watch the video](https://i9.ytimg.com/vi_webp/5ZV1Uxi8g60/mq1.webp?sqp=CMSni6gG&rs=AOn4CLCXeKPNv8fKm-WTe1hR4GHdcgHEPQ)](https://youtu.be/5ZV1Uxi8g60)
+[![Watch the video](https://bluedskim.github.io/images/Simplemonitor8x8-Library-for-display-sequential-data-on-8x8-LEDs-like-MAX7219-YouTube.png)](https://youtu.be/5ZV1Uxi8g60)
 
 
 See the online documentation here: https://bitbucket.org/bluedskim/simplemonitor8x8
